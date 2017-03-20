@@ -1,0 +1,11 @@
+d:\my documents\visual studio 2010\Projects\ObjectiveSQL\ObjectiveSQL\bin\Debug\ObjectiveSQL.exe
+d:\my documents\visual studio 2010\Projects\ObjectiveSQL\ObjectiveSQL\bin\Debug\ObjectiveSQL.pdb
+d:\my documents\visual studio 2010\Projects\ObjectiveSQL\ObjectiveSQL\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\ObjectiveSQL\ObjectiveSQL\obj\x86\Debug\ObjectiveSQL.exe
+d:\my documents\visual studio 2010\Projects\ObjectiveSQL\ObjectiveSQL\obj\x86\Debug\ObjectiveSQL.pdb
+D:\CSharp_Projects\ObjectiveSQL\ObjectiveSQL\obj\x86\Debug\ObjectiveSQL.exe
+D:\CSharp_Projects\ObjectiveSQL\ObjectiveSQL\obj\x86\Debug\ObjectiveSQL.pdb
+D:\CSharp_Projects\ObjectiveSQL\ObjectiveSQL\bin\Debug\ObjectiveSQL.exe
+D:\CSharp_Projects\ObjectiveSQL\ObjectiveSQL\bin\Debug\ObjectiveSQL.pdb
+D:\CSharp_Projects\ObjectiveSQL\ObjectiveSQL\obj\x86\Debug\ObjectiveSQL.csprojResolveAssemblyReference.cache
+D:\CSharp_Projects\ObjectiveSQL\ObjectiveSQL\bin\Debug\ObjectiveSQL.exe.config
